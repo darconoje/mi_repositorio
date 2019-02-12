@@ -1,1 +1,2 @@
 archivo de conflicto
+editado en GitHub
